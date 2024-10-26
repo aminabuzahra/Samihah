@@ -8,6 +8,7 @@ public class GitHubTest : MonoBehaviour
     void Start()
     {
         Debug.Log ("Hi Samihah");
+        Debug.Log ("Hi Fathieh");
     }
 
     // Update is called once per frame
